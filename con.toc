@@ -6,10 +6,10 @@
 \contentsline {section}{\numberline {3}Linearization (Question B)}{4}
 \contentsline {section}{\numberline {4}Controllability (Question C)}{5}
 \contentsline {section}{\numberline {5}FeedBack and Linear Quadratic Regulator (Question D)}{7}
-\contentsline {section}{\numberline {6}Observability (Question E)}{7}
-\contentsline {section}{\numberline {7}Luenberger Observer (Question F)}{7}
-\contentsline {section}{\numberline {8}LQG (Question G)}{10}
-\contentsline {section}{\numberline {9}Appendix}{10}
-\contentsline {subsection}{\numberline {9.1}Code for Dynamics Calculations}{10}
-\contentsline {subsection}{\numberline {9.2}Code for LQR}{11}
-\contentsline {subsection}{\numberline {9.3}Code for LQG}{11}
+\contentsline {section}{\numberline {6}Observability (Question E)}{8}
+\contentsline {section}{\numberline {7}Luenberger Observer (Question F)}{8}
+\contentsline {section}{\numberline {8}LQG (Question G)}{11}
+\contentsline {section}{\numberline {9}Appendix}{11}
+\contentsline {subsection}{\numberline {9.1}Code for Dynamics Calculations}{11}
+\contentsline {subsection}{\numberline {9.2}Code for LQR}{12}
+\contentsline {subsection}{\numberline {9.3}Code for LQG}{12}

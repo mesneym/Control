@@ -166,6 +166,12 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT lagrange.png
 INPUT ./lagrange.png
 INPUT ./lagrange.png
+INPUT lqrlinearized.png
+INPUT ./lqrlinearized.png
+INPUT ./lqrlinearized.png
+INPUT lqrNonlinearized.png
+INPUT ./lqrNonlinearized.png
+INPUT ./lqrNonlinearized.png
 INPUT StateXlinearResponse.png
 INPUT ./StateXlinearResponse.png
 INPUT ./StateXlinearResponse.png
