@@ -3,9 +3,9 @@
 \contentsline {subsection}{\numberline {1.1}Lagrangian}{2}
 \contentsline {subsection}{\numberline {1.2}Equation of Motion}{3}
 \contentsline {section}{\numberline {2}Linearization (Question B)}{4}
-\contentsline {section}{\numberline {3}Controllability (Question C)}{6}
-\contentsline {section}{\numberline {4}FeedBack and Linear Quadratic Regulator (Question D)}{7}
-\contentsline {section}{\numberline {5}Observability (Question E)}{8}
+\contentsline {section}{\numberline {3}Controllability (Question C)}{5}
+\contentsline {section}{\numberline {4}FeedBack and Linear Quadratic Regulator (Question D)}{6}
+\contentsline {section}{\numberline {5}Observability (Question E)}{7}
 \contentsline {section}{\numberline {6}Luenberger Observer (Question F)}{10}
 \contentsline {section}{\numberline {7}LQG Non linear}{14}
 \contentsline {section}{\numberline {8}Appendix}{14}

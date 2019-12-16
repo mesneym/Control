@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1576526005 "con.tex" "con.pdf" "con" 1576526005
+["pdflatex"] 1576532539 "con.tex" "con.pdf" "con" 1576532539
   "/etc/texmf/web2c/texmf.cnf" 1572960606 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -100,13 +100,14 @@
   "StateXth1th2NonLinearResponse.png" 1576512167 114062 287c718e1ca630ee2c73a5d93d21cd00 ""
   "StateXth2LinearResponse.png" 1576512163 40063 9ac686d4718405877175521187103c4d ""
   "StateXth2NonLinearResponse.png" 1576512171 94979 b914f9f39c43277a27ce3cdab263135c ""
+  "StateXtht1tht2NonLinear.png" 1576532200 44985 b66940bb689969cdd0abff7a42f8ee92 ""
   "c1.png" 1576524485 3094 7b01ff742a5e8ebd807122a5da78b80c ""
   "c2.png" 1576524494 5668 3d102edc2be984e2223535f710402e26 ""
   "c3.png" 1576524505 4918 ba6666217c3349dfe985135feff05dbb ""
   "c4.png" 1576524498 6624 fff30582fa27ecfd02c46fcf73822740 ""
   "compute.m" 1576525746 9901 f91787df83f793dfcb9a1106b428b718 ""
-  "con.aux" 1576526005 8 a94a2480d3289e625eea47cd1b285758 ""
-  "con.tex" 1576525969 13037 ff0209884e8f592fa044a864e83146a3 ""
+  "con.aux" 1576532539 8 a94a2480d3289e625eea47cd1b285758 ""
+  "con.tex" 1576532500 12807 828602c42504de3a6958c6321ce93292 ""
   "con.toc" 0 -1 0 ""
   "lagrange.png" 1576476979 15355 ecd25faee6f8da747642f803eb1a1057 ""
   "lqgNonlinear.png" 1576520768 36007 0d93df018f0f208ac0f3846dad378c2b ""
@@ -118,6 +119,6 @@
   "uon.jpeg" 1576365642 135436 3e4c5478e569c2ffa0ede33df38bfad0 ""
   (generated)
   "con.aux"
+  "con.pdf"
   "con.log"
   "con.toc"
-  "con.pdf"
