@@ -236,7 +236,6 @@ From $A_F = \nabla_xF=\frac{\partial F}{\partial X}$ and $B_F=\nabla_uF=\frac{\p
     \frac{1}{Ml_2}
   \end{bmatrix}
 \end{align}
-\section{Controllability (Question C)}
 \textbf{Output}
 \begin{figure}[H]
     \centering
@@ -244,6 +243,20 @@ From $A_F = \nabla_xF=\frac{\partial F}{\partial X}$ and $B_F=\nabla_uF=\frac{\p
     \includegraphics[scale = 0.5]{lagrange.png}\\[0.0 cm]	% University Logo
     \caption{lagrange Dynamics} 
 \end{figure}
+
+\section{Controllability (Question C)}
+The controllability matrix,C, is a 6x6 matrix and is controllable when
+\begin{align}
+  Det(C) \neq 0
+\end{align}
+
+\textbf{Condition for Controllability}
+\begin{align}
+  Det(C) &= -\frac{(g^6l_1^2-2g^6l_1l_2+g^6l_2^2)}{M^6l_1^6l_2^6} \\
+  Det(C) &= -\frac{g^6}{Ml_1l_2}(l_1-l_2)^2
+\end{align}
+Therefore, Linearized system is controllable when $l_1 \neq \l_2$ \\
+\textbf{Refer to code for information on these where obtained}
 
 \section{FeedBack and Linear Quadratic Regulator (Question D)}
 \begin{figure}[H]
