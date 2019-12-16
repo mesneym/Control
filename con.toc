@@ -6,9 +6,9 @@
 \contentsline {section}{\numberline {3}Controllability (Question C)}{6}
 \contentsline {section}{\numberline {4}FeedBack and Linear Quadratic Regulator (Question D)}{7}
 \contentsline {section}{\numberline {5}Observability (Question E)}{8}
-\contentsline {section}{\numberline {6}Luenberger Observer (Question F)}{8}
-\contentsline {section}{\numberline {7}LQG (Question G)}{11}
-\contentsline {section}{\numberline {8}Appendix}{11}
-\contentsline {subsection}{\numberline {8.1}Code for Dynamics Calculations}{11}
-\contentsline {subsection}{\numberline {8.2}Code for LQR}{12}
-\contentsline {subsection}{\numberline {8.3}Code for LQG}{12}
+\contentsline {section}{\numberline {6}Luenberger Observer (Question F)}{10}
+\contentsline {section}{\numberline {7}LQG Non linear}{14}
+\contentsline {section}{\numberline {8}Appendix}{14}
+\contentsline {subsection}{\numberline {8.1}Code for Dynamics Calculations}{14}
+\contentsline {subsection}{\numberline {8.2}Code for LQR}{15}
+\contentsline {subsection}{\numberline {8.3}Code for LQG}{15}

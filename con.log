@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.11.5)  16 DEC 2019 12:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.11.5)  16 DEC 2019 14:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -362,11 +362,12 @@ Package pdftex.def Info: ./uon.jpeg used on input line 74.
 (pdftex.def)             Requested size: 271.02838pt x 44.46872pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./uon.jpeg>] (./con.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./uon.jpeg>]
+No file con.toc.
 \tf@toc=\write3
 \openout3 = `con.toc'.
 
- [1]
+[1]
 Underfull \hbox (badness 10000) in paragraph at lines 110--113
 
  []
@@ -435,89 +436,149 @@ File: lqrNonlinearized.png Graphic file (type png)
  <use lqrNonlinearized.png>
 Package pdftex.def Info: lqrNonlinearized.png used on input line 272.
 (pdftex.def)             Requested size: 370.38661pt x 201.00249pt.
- [7 <./lqrlinearized.png> <./lqrNonlinearized.png>] <StateXlinearResponse.png, id=46, 1234.6125pt x 663.98062pt>
+ [7 <./lqrlinearized.png> <./lqrNonlinearized.png>] <c1.png, id=46, 380.17032pt x 133.24782pt>
+File: c1.png Graphic file (type png)
+ <use c1.png>
+Package pdftex.def Info: c1.png used on input line 281.
+(pdftex.def)             Requested size: 342.15012pt x 119.92192pt.
+ <c2.png, id=47, 773.89125pt x 137.7647pt>
+File: c2.png Graphic file (type png)
+ <use c2.png>
+Package pdftex.def Info: c2.png used on input line 287.
+(pdftex.def)             Requested size: 696.4957pt x 123.98706pt.
+
+Overfull \hbox (269.06416pt too wide) in paragraph at lines 287--287
+ [][] 
+ []
+
+<c3.png, id=48, 793.46437pt x 139.27031pt>
+File: c3.png Graphic file (type png)
+ <use c3.png>
+Package pdftex.def Info: c3.png used on input line 293.
+(pdftex.def)             Requested size: 476.08229pt x 83.56282pt.
+
+Overfull \hbox (48.65076pt too wide) in paragraph at lines 293--293
+ [][] 
+ []
+
+<c4.png, id=49, 1171.37625pt x 137.01187pt>
+File: c4.png Graphic file (type png)
+ <use c4.png>
+Package pdftex.def Info: c4.png used on input line 299.
+(pdftex.def)             Requested size: 468.5422pt x 54.80377pt.
+
+Overfull \hbox (41.11067pt too wide) in paragraph at lines 299--299
+ [][] 
+ []
+
+[8 <./c1.png> <./c2.png> <./c3.png>] <out.png, id=56, 442.65375pt x 334.24875pt>
+File: out.png Graphic file (type png)
+ <use out.png>
+Package pdftex.def Info: out.png used on input line 305.
+(pdftex.def)             Requested size: 354.12346pt x 267.39935pt.
+
+./con.tex:307: Undefined control sequence.
+l.307 \textb
+            {Refer to code for information on these where generated}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<StateXlinearResponse.png, id=57, 1234.6125pt x 663.98062pt>
 File: StateXlinearResponse.png Graphic file (type png)
  <use StateXlinearResponse.png>
-Package pdftex.def Info: StateXlinearResponse.png used on input line 284.
+Package pdftex.def Info: StateXlinearResponse.png used on input line 312.
 (pdftex.def)             Requested size: 432.12085pt x 232.3967pt.
 
-Overfull \hbox (4.68932pt too wide) in paragraph at lines 284--284
+Overfull \hbox (4.68932pt too wide) in paragraph at lines 312--312
  [][] 
  []
 
-<StateXNonLinearResponse.png, id=47, 1236.11812pt x 664.73344pt>
+[9 <./c4.png> <./out.png>] <StateXNonLinearResponse.png, id=63, 1236.11812pt x 664.73344pt>
 File: StateXNonLinearResponse.png Graphic file (type png)
  <use StateXNonLinearResponse.png>
-Package pdftex.def Info: StateXNonLinearResponse.png used on input line 291.
+Package pdftex.def Info: StateXNonLinearResponse.png used on input line 319.
 (pdftex.def)             Requested size: 432.64783pt x 232.66019pt.
 
-Overfull \hbox (5.2163pt too wide) in paragraph at lines 291--291
+Overfull \hbox (5.2163pt too wide) in paragraph at lines 319--319
  [][] 
  []
 
-[8 <./StateXlinearResponse.png>] <StateXth2LinearResponse.png, id=52, 1257.94969pt x 663.22781pt>
+[10 <./StateXlinearResponse.png>] <StateXth2LinearResponse.png, id=68, 1257.94969pt x 663.22781pt>
 File: StateXth2LinearResponse.png Graphic file (type png)
  <use StateXth2LinearResponse.png>
-Package pdftex.def Info: StateXth2LinearResponse.png used on input line 298.
+Package pdftex.def Info: StateXth2LinearResponse.png used on input line 326.
 (pdftex.def)             Requested size: 440.28899pt x 232.13321pt.
 
-Overfull \hbox (12.85745pt too wide) in paragraph at lines 298--298
+Overfull \hbox (12.85745pt too wide) in paragraph at lines 326--326
  [][] 
  []
 
-<StateXth2NonLinearResponse.png, id=53, 1252.68pt x 668.4975pt>
+<StateXth2NonLinearResponse.png, id=69, 1252.68pt x 668.4975pt>
 File: StateXth2NonLinearResponse.png Graphic file (type png)
  <use StateXth2NonLinearResponse.png>
-Package pdftex.def Info: StateXth2NonLinearResponse.png used on input line 305.
+Package pdftex.def Info: StateXth2NonLinearResponse.png used on input line 333.
 (pdftex.def)             Requested size: 438.44456pt x 233.97763pt.
 
-Overfull \hbox (11.01303pt too wide) in paragraph at lines 305--305
+Overfull \hbox (11.01303pt too wide) in paragraph at lines 333--333
  [][] 
  []
 
-[9 <./StateXNonLinearResponse.png> <./StateXth2LinearResponse.png>] <StateXth1th2NonLinearResponse.png, id=59, 1255.69125pt x 666.23906pt>
+[11 <./StateXNonLinearResponse.png> <./StateXth2LinearResponse.png>] <StateXth1th2NonLinearResponse.png, id=75, 1255.69125pt x 666.23906pt>
 File: StateXth1th2NonLinearResponse.png Graphic file (type png)
  <use StateXth1th2NonLinearResponse.png>
-Package pdftex.def Info: StateXth1th2NonLinearResponse.png used on input line 312.
+Package pdftex.def Info: StateXth1th2NonLinearResponse.png used on input line 340.
 (pdftex.def)             Requested size: 439.49852pt x 233.18716pt.
 
-Overfull \hbox (12.06699pt too wide) in paragraph at lines 312--312
+Overfull \hbox (12.06699pt too wide) in paragraph at lines 340--340
  [][] 
  []
 
 File: StateXth1th2NonLinearResponse.png Graphic file (type png)
 <use StateXth1th2NonLinearResponse.png>
-Package pdftex.def Info: StateXth1th2NonLinearResponse.png used on input line 319.
+Package pdftex.def Info: StateXth1th2NonLinearResponse.png used on input line 347.
 (pdftex.def)             Requested size: 439.49852pt x 233.18716pt.
 
-Overfull \hbox (12.06699pt too wide) in paragraph at lines 319--319
+Overfull \hbox (12.06699pt too wide) in paragraph at lines 347--347
  [][] 
  []
 
-[10 <./StateXth2NonLinearResponse.png> <./StateXth1th2NonLinearResponse.png>]
+[12 <./StateXth2NonLinearResponse.png> <./StateXth1th2NonLinearResponse.png>] <lqgNonlinear.png, id=82, 1260.20813pt x 670.00313pt>
+File: lqgNonlinear.png Graphic file (type png)
+ <use lqgNonlinear.png>
+Package pdftex.def Info: lqgNonlinear.png used on input line 357.
+(pdftex.def)             Requested size: 441.07945pt x 234.50461pt.
+
+Overfull \hbox (13.64792pt too wide) in paragraph at lines 357--357
+ [][] 
+ []
+
+[13]
 File: lagrange.png Graphic file (type png)
  <use lagrange.png>
-Package pdftex.def Info: lagrange.png used on input line 335.
+Package pdftex.def Info: lagrange.png used on input line 370.
 (pdftex.def)             Requested size: 471.76134pt x 244.9144pt.
 
-Overfull \hbox (44.3298pt too wide) in paragraph at lines 335--335
+Overfull \hbox (44.3298pt too wide) in paragraph at lines 370--370
  [][] 
  []
 
-[11] [12] (./con.aux) ) 
+[14 <./lqgNonlinear.png>] [15] (./con.aux) ) 
 Here is how much of TeX's memory you used:
- 7763 strings out of 494953
- 114598 string characters out of 6180977
+ 7791 strings out of 494953
+ 114931 string characters out of 6180977
  231357 words of memory out of 5000000
- 10900 multiletter control sequences out of 15000+600000
+ 10924 multiletter control sequences out of 15000+600000
  10725 words of font info for 38 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  42i,17n,43p,323b,293s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on con.pdf (13 pages, 673160 bytes).
+Output written on con.pdf (16 pages, 770663 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
+ 129 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
