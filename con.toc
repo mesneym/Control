@@ -1,0 +1,15 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Problem Statement}{2}
+\contentsline {section}{\numberline {2}Dynamics(Question A)}{2}
+\contentsline {subsection}{\numberline {2.1}Lagrangian}{2}
+\contentsline {subsection}{\numberline {2.2}Equation of Motion}{3}
+\contentsline {section}{\numberline {3}Linearization (Question B)}{4}
+\contentsline {section}{\numberline {4}Controllability (Question C)}{5}
+\contentsline {section}{\numberline {5}FeedBack and Linear Quadratic Regulator (Question D)}{7}
+\contentsline {section}{\numberline {6}Observability (Question E)}{7}
+\contentsline {section}{\numberline {7}Luenberger Observer (Question F)}{7}
+\contentsline {section}{\numberline {8}LQG (Question G)}{10}
+\contentsline {section}{\numberline {9}Appendix}{10}
+\contentsline {subsection}{\numberline {9.1}Code for Dynamics Calculations}{10}
+\contentsline {subsection}{\numberline {9.2}Code for LQR}{11}
+\contentsline {subsection}{\numberline {9.3}Code for LQG}{11}
