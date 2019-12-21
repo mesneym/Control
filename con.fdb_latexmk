@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1576532679 "con.tex" "con.pdf" "con" 1576532679
+["pdflatex"] 1576532679 "con.tex" "con.pdf" "con" 1576930683
   "/etc/texmf/web2c/texmf.cnf" 1572960606 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -106,9 +106,9 @@
   "c3.png" 1576524505 4918 ba6666217c3349dfe985135feff05dbb ""
   "c4.png" 1576524498 6624 fff30582fa27ecfd02c46fcf73822740 ""
   "compute.m" 1576525746 9901 f91787df83f793dfcb9a1106b428b718 ""
-  "con.aux" 1576532542 2612 b017da3912f5eaf8ca344765ac69759d ""
-  "con.tex" 1576532500 12807 828602c42504de3a6958c6321ce93292 ""
-  "con.toc" 1576532542 878 fedea867b4c8c166d4456fa1817f3ccc ""
+  "con.aux" 1576532682 2612 b017da3912f5eaf8ca344765ac69759d ""
+  "con.tex" 1576532689 12807 828602c42504de3a6958c6321ce93292 ""
+  "con.toc" 1576532682 878 fedea867b4c8c166d4456fa1817f3ccc ""
   "lagrange.png" 1576476979 15355 ecd25faee6f8da747642f803eb1a1057 ""
   "lqgNonlinear.png" 1576520768 36007 0d93df018f0f208ac0f3846dad378c2b ""
   "lqrNonlinearized.png" 1576514785 43936 d70641c69c1e1647af15e5860a0d9847 ""
@@ -118,7 +118,7 @@
   "proj.m" 1576476926 4323 0da18685a3147aa6aa76e9070ebd3a7d ""
   "uon.jpeg" 1576365642 135436 3e4c5478e569c2ffa0ede33df38bfad0 ""
   (generated)
+  "con.toc"
   "con.pdf"
   "con.aux"
-  "con.toc"
   "con.log"
